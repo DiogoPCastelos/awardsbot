@@ -1,0 +1,1 @@
+the only discord bot I don't mind open sourcing haha (pretty much just the same as a card with the winner of an award, but for events on discord. This way the announcer doesn't know who won until they do the command)
