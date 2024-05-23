@@ -10,6 +10,7 @@ Discord Bot I made to help a livestream with prize giving. This way I ensured th
 
 - [License](#license)
 - [Questions](#questions)
+- [Missing Elements](#missing_elements)
 
 ## License
 
@@ -20,3 +21,13 @@ This project is licensed under the terms of the MIT license. For more informatio
 If you have any questions, feel free to contact me or open an issue:
 
 - GitHub: [DiogoPCastelos](https://github.com/DiogoPCastelos)
+
+## Missing_Elements
+
+You need a .env file on root btw with:
+
+TOKEN=**_ \n
+MONGO_URL=_** \n
+GUILD_ID=\_\_\_
+
+(discord bot token, mongo url, and guild id that you wanna add)
