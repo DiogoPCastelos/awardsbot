@@ -27,7 +27,7 @@ If you have any questions, feel free to contact me or open an issue:
 You need a .env file on root btw with:
 
 ```bash
-   TOKEN=___ \n
+TOKEN=___ \n
 MONGO_URL=___ \n
 GUILD_ID=___
 ```
