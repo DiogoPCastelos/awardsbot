@@ -26,8 +26,8 @@ If you have any questions, feel free to contact me or open an issue:
 
 You need a .env file on root btw with:
 
-TOKEN=**_ \n
-MONGO_URL=_** \n
-GUILD_ID=\_\_\_
+[TOKEN=___]
+[MONGO_URL=___]
+[GUILD_ID=___]
 
 (discord bot token, mongo url, and guild id that you wanna add)
